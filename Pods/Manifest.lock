@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyPickerPopover (6.4.0)
+
+DEPENDENCIES:
+  - SwiftyPickerPopover (~> 6.4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftyPickerPopover
+
+SPEC CHECKSUMS:
+  SwiftyPickerPopover: b0457df3054041d39d7b8a8df66729c9299850c6
+
+PODFILE CHECKSUM: c799a3afc2e8c3e8377e35e89c610d14d1512cd9
+
+COCOAPODS: 1.5.2
